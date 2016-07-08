@@ -1,0 +1,6 @@
+C:\_nabdir\_cSharp\OurPoppyseedApp\Gitfolder\contractCons\ContractConsProject\ContractConsProject\bin\Debug\ContractConsProject.exe.config
+C:\_nabdir\_cSharp\OurPoppyseedApp\Gitfolder\contractCons\ContractConsProject\ContractConsProject\bin\Debug\ContractConsProject.exe
+C:\_nabdir\_cSharp\OurPoppyseedApp\Gitfolder\contractCons\ContractConsProject\ContractConsProject\bin\Debug\ContractConsProject.pdb
+C:\_nabdir\_cSharp\OurPoppyseedApp\Gitfolder\contractCons\ContractConsProject\ContractConsProject\obj\Debug\ContractConsProject.csprojResolveAssemblyReference.cache
+C:\_nabdir\_cSharp\OurPoppyseedApp\Gitfolder\contractCons\ContractConsProject\ContractConsProject\obj\Debug\ContractConsProject.exe
+C:\_nabdir\_cSharp\OurPoppyseedApp\Gitfolder\contractCons\ContractConsProject\ContractConsProject\obj\Debug\ContractConsProject.pdb
